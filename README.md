@@ -54,7 +54,7 @@ Download from google drive : [Dataset link](https://drive.google.com/drive/folde
 <table>
   <tr>
     <td><img src="screenshots/img1.jpeg" width="200"/></td>
-    <td><img src="screenshots/img2.jpeg" width="200"/></td>
+    <td><img src="screenshots/img2.png" width="200"/></td>
     <td><img src="screenshots/img3.jpeg" width="200"/></td>
     <td><img src="screenshots/img4.jpeg" width="200"/></td>
   </tr>
