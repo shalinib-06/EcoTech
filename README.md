@@ -2,8 +2,6 @@
 
 An intelligent full-stack web application that helps users decide whether to **resell, repair, or recycle** their electronic devices using AI-powered predictions and real-time environmental impact tracking.
 
-Built during **TechDivathon 2.0 – 24-Hour Women-Centric National Hackathon**, conducted by Panimalar Engineering College in collaboration with Hexaware.
-
 ---
 ## 💡 Solution Overview
 
